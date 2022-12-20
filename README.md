@@ -2,4 +2,4 @@
 
 [Demo](https://timingjl.github.io/Memory-Blocks/)
 
-![](https://i.imgur.com/G4ficUV.gif)
+![](https://i.imgur.com/kHgHtBX.gif)
